@@ -20,4 +20,9 @@ Code License:
 	SOFTWARE.
 Textures License:
 	Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
-	Copyright (C) 2010-2018 (Default mod - license.txt - Licenses of media)
+	
+				Textures Base
+	golden_tools_sword.png: default_tool_diamondsword.png
+	golden_tools_pickaxe.png: default_tool_diamondpick.png
+	golden_tools_axe.png: default_tool_diamondaxe.png
+	golden_tools_shovel.png: default_tool_diamondshovel.png
